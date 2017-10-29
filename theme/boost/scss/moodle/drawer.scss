@@ -23,7 +23,7 @@ $drawer-offscreen-gutter: 20px !default;
 }
 
 /* Use a variable for the drawer background colors. */
-$drawer-bg: $gray-lighter !default;
+$drawer-bg: $foodcraft-theme-color !default;
 
 [data-region="drawer"] {
     position: fixed;

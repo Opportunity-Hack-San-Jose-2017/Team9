@@ -593,6 +593,7 @@ span.editinstructions {
 
 .coursebox {
     padding: $spacer / 2;
+    border-bottom:1px solid #ececec;
 }
 
 .coursebox > .info > .coursename a {
@@ -607,8 +608,7 @@ span.editinstructions {
 .coursebox .content .teachers,
 .coursebox .content .courseimage,
 .coursebox .content .coursefile {
-    float: left;
-    clear: left;
+
 }
 
 .coursebox .content .teachers,
@@ -647,8 +647,7 @@ span.editinstructions {
 
 .coursebox .content .summary,
 .coursebox .content .coursecat {
-    float: right;
-    width: 55%;
+
 }
 
 .coursebox .content .coursecat {

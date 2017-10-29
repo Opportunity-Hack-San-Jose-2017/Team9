@@ -272,7 +272,9 @@ foreach (explode(',', $frontpagelayout) as $v) {
                 echo html_writer::start_tag('div', array('id' => 'frontpage-course-list'));
 
                 echo $OUTPUT->heading(get_string('availablecourses'));
+
                 echo $availablecourseshtml;
+
 
                 // End frontpage course list div container.
                 echo html_writer::end_tag('div');

@@ -26,7 +26,7 @@ $spacer-y: $spacer !default;
 $border-width: 1px !default;
 
 // Body
-$body-bg:    #f4f4f4 !default;
+$body-bg:    #f4faff !default;
 $body-color: #3a3a3a !default;
 
 // Typography
@@ -79,7 +79,6 @@ $breadcrumb-divider-rtl: "/" !default;
         padding-right: 1rem;
         margin-right: $spacer * 2;
         color: #fff;
-        background-color: $brand-primary;
         @include hover-focus {
             color: #fff;
         }
