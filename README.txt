@@ -1,28 +1,17 @@
-                                 .-..-.
-   _____                         | || |
-  /____/-.---_  .---.  .---.  .-.| || | .---.
-  | |  _   _  |/  _  \/  _  \/  _  || |/  __ \
-  * | | | | | || |_| || |_| || |_| || || |___/
-    |_| |_| |_|\_____/\_____/\_____||_|\_____)
+# FoodCraft Learning Management System
 
-Moodle - the world's open source learning platform
+This repository contains the codebase customized for Foodcraft to host it's learning Management System. 
 
-Moodle <https://moodle.org> is a learning platform designed to provide
-educators, administrators and learners with a single robust, secure and
-integrated system to create personalised learning environments.
+This system aims to provide foodcraft instructors create interactive courses so that students can take advantage of such a system to learn in class as well as from remote location. 
 
-You can download Moodle <https://download.moodle.org> and run it on your own
-web server, ask one of our Moodle Partners <https://moodle.com/partners/> to
-assist you, or have a MoodleCloud site <https://moodle.com/cloud/> set up for
-you.
+Using a learning management system will allow instructors as well as students to go to an online platform in order to get access to the resources that they need to manage their business. 
 
-Moodle is widely used around the world by universities, schools, companies and
-all manner of organisations and individuals.
+# Systems/Codebase
+-- Core Codebase in Moodle customized for Foodcraft 
+-- Mysql Database setup in the Cloud
+-- Integration with BigBlueButton as a video conferencing/blackboarding tool. 
+-- Production Ready and hosted with Microsoft Azure
+-- Scalable for any Future Needs. 
 
-Moodle is provided freely as open source software, under the GNU General Public
-License <https://docs.moodle.org/dev/License>.
-
-Moodle is written in PHP and JavaScript and uses an SQL database for storing
-the data.
-
-See <https://docs.moodle.org> for details of Moodle's many features.
+# Cost Savings 
+We have requested Microsoft for a Non Profit Discount and received a $5000 donation from Microsoft for the same. We believe the system is scalable and will allow foodcraft to sustain it's initiative of enabling small business through interactive learning. 
